@@ -139,3 +139,7 @@ Run integration tests:
 ```
   make venv pylint
 ```
+
+## Public mirror
+
+This repository is mirrored to a public, read-only copy at https://github.com/minwareco/pipelinewise-tap-s3-csv-public; see the [Public mirror wiki page](https://github.com/minwareco/pipelinewise-tap-s3-csv/wiki/Public-mirror) for how to set up the remote and sync it.
